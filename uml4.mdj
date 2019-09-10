@@ -993,7 +993,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -248,
-											"top": -24,
+											"top": 8,
 											"height": 13
 										},
 										{
@@ -1004,7 +1004,7 @@
 											},
 											"font": "Arial;13;1",
 											"left": 445,
-											"top": 511,
+											"top": 527,
 											"width": 154.25439453125,
 											"height": 13,
 											"text": "FactoryAddon"
@@ -1018,7 +1018,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -248,
-											"top": -24,
+											"top": 8,
 											"width": 73.67724609375,
 											"height": 13,
 											"text": "(from Model)"
@@ -1032,14 +1032,14 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -248,
-											"top": -24,
+											"top": 8,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 440,
-									"top": 504,
+									"top": 520,
 									"width": 164.25439453125,
 									"height": 25,
 									"stereotypeLabel": {
@@ -1076,7 +1076,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 445,
-											"top": 534,
+											"top": 550,
 											"width": 154.25439453125,
 											"height": 13,
 											"text": "+Health",
@@ -1085,7 +1085,7 @@
 									],
 									"font": "Arial;13;0",
 									"left": 440,
-									"top": 529,
+									"top": 545,
 									"width": 164.25439453125,
 									"height": 23
 								},
@@ -1110,7 +1110,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 445,
-											"top": 557,
+											"top": 573,
 											"width": 154.25439453125,
 											"height": 13,
 											"text": "+UnderAttack(ref charator)",
@@ -1119,7 +1119,7 @@
 									],
 									"font": "Arial;13;0",
 									"left": 440,
-									"top": 552,
+									"top": 568,
 									"width": 164.25439453125,
 									"height": 23
 								},
@@ -1135,7 +1135,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": -124,
-									"top": -12,
+									"top": 4,
 									"width": 10,
 									"height": 10
 								},
@@ -1151,7 +1151,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": -124,
-									"top": -12,
+									"top": 4,
 									"width": 10,
 									"height": 10
 								}
@@ -1159,7 +1159,7 @@
 							"font": "Arial;13;0",
 							"containerChangeable": true,
 							"left": 440,
-							"top": 504,
+							"top": 520,
 							"width": 164.25439453125,
 							"height": 81,
 							"nameCompartment": {
@@ -1199,8 +1199,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 372,
-									"top": 561,
+									"left": 371,
+									"top": 569,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -1220,8 +1220,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 373,
-									"top": 576,
+									"left": 371,
+									"top": 584,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -1241,8 +1241,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 369,
-									"top": 532,
+									"left": 370,
+									"top": 540,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1262,8 +1262,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 414,
-									"top": 559,
+									"left": 413,
+									"top": 570,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -1283,8 +1283,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 412,
-									"top": 573,
+									"left": 410,
+									"top": 583,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -1304,8 +1304,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 416,
-									"top": 531,
+									"left": 417,
+									"top": 542,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -1326,7 +1326,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 330,
-									"top": 565,
+									"top": 570,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -1345,8 +1345,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 334,
-									"top": 578,
+									"left": 332,
+									"top": 584,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -1365,8 +1365,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 324,
-									"top": 538,
+									"left": 325,
+									"top": 543,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -1411,7 +1411,7 @@
 								"$ref": "AAAAAAFtGa6mArk5ijs="
 							},
 							"lineStyle": 1,
-							"points": "439:549;304:558",
+							"points": "439:561;304:562",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFtGa7zlrmU0dQ="
@@ -1621,7 +1621,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFtGayMTrfMZ3Y="
 							},
-							"name": "FactoryAddOn"
+							"name": "FactoryAddOn",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -1690,7 +1691,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFtGa6Rk7kpi0Y="
 							},
-							"name": "Health"
+							"name": "Health",
+							"type": ""
 						}
 					],
 					"operations": [
