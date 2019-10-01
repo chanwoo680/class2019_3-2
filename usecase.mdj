@@ -986,7 +986,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"top": -112,
+											"left": 224,
+											"top": -160,
 											"height": 13
 										},
 										{
@@ -996,8 +997,8 @@
 												"$ref": "AAAAAAFtYjUa8jj/cWI="
 											},
 											"font": "Arial;13;1",
-											"left": 280,
-											"top": 430,
+											"left": 392,
+											"top": 406,
 											"width": 80,
 											"height": 13,
 											"text": "객실예약"
@@ -1010,7 +1011,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"top": -112,
+											"left": 224,
+											"top": -160,
 											"width": 134.3671875,
 											"height": 13,
 											"text": "(from Use Case Model)"
@@ -1023,14 +1025,15 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"top": -112,
+											"left": 224,
+											"top": -160,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 275,
-									"top": 423,
+									"left": 387,
+									"top": 399,
 									"width": 90,
 									"height": 25,
 									"stereotypeLabel": {
@@ -1057,7 +1060,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"top": -56,
+									"left": 112,
+									"top": -80,
 									"width": 10,
 									"height": 10
 								},
@@ -1072,7 +1076,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"top": -56,
+									"left": 112,
+									"top": -80,
 									"width": 10,
 									"height": 10
 								},
@@ -1087,7 +1092,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"top": -56,
+									"left": 112,
+									"top": -80,
 									"width": 10,
 									"height": 10
 								},
@@ -1102,7 +1108,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"top": -56,
+									"left": 112,
+									"top": -80,
 									"width": 10,
 									"height": 10
 								},
@@ -1117,15 +1124,16 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"top": -56,
+									"left": 112,
+									"top": -80,
 									"width": 10,
 									"height": 10
 								}
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 256,
-							"top": 392,
+							"left": 368,
+							"top": 368,
 							"width": 128,
 							"height": 88,
 							"nameCompartment": {
@@ -4003,7 +4011,7 @@
 											"containerExtending": true,
 											"left": -44,
 											"top": -16,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -4150,7 +4158,7 @@
 											"containerExtending": true,
 											"left": 60,
 											"top": -116,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -4463,7 +4471,7 @@
 											"containerExtending": true,
 											"left": 104,
 											"top": -176,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -4489,7 +4497,7 @@
 									"containerExtending": true,
 									"left": 212,
 									"top": 112,
-									"width": 84,
+									"width": 84.68359375,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFElnJRglVPiBM="
@@ -4607,8 +4615,8 @@
 									"font": "Arial;12;0",
 									"containerChangeable": true,
 									"containerExtending": true,
-									"left": 177,
-									"top": 139,
+									"left": 176,
+									"top": 141,
 									"height": 12,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -4630,8 +4638,8 @@
 									"font": "Arial;12;0",
 									"containerChangeable": true,
 									"containerExtending": true,
-									"left": 177,
-									"top": 154,
+									"left": 176,
+									"top": 156,
 									"height": 12,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -4653,8 +4661,8 @@
 									"font": "Arial;12;0",
 									"containerChangeable": true,
 									"containerExtending": true,
-									"left": 176,
-									"top": 110,
+									"left": 177,
+									"top": 111,
 									"height": 12,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -4749,7 +4757,7 @@
 											"containerChangeable": true,
 											"containerExtending": true,
 											"left": 1500,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -4865,7 +4873,7 @@
 											"font": "Arial;12;0",
 											"containerExtending": true,
 											"left": -12,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -4989,7 +4997,7 @@
 											"containerExtending": true,
 											"left": 48,
 											"top": -12,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -5176,7 +5184,7 @@
 											"containerExtending": true,
 											"left": 24,
 											"top": 24,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -5363,7 +5371,7 @@
 											"containerExtending": true,
 											"left": 96,
 											"top": -48,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -5550,7 +5558,7 @@
 											"containerExtending": true,
 											"left": 132,
 											"top": -108,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -5737,7 +5745,7 @@
 											"containerExtending": true,
 											"left": 180,
 											"top": -180,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -5923,7 +5931,7 @@
 											"font": "Arial;12;0",
 											"containerExtending": true,
 											"top": -108,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -6639,8 +6647,8 @@
 									"visible": false,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 196,
-									"top": 376,
+									"left": 195,
+									"top": 378,
 									"height": 12,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -6661,8 +6669,8 @@
 									"visible": null,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 196,
-									"top": 391,
+									"left": 195,
+									"top": 393,
 									"height": 12,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -6683,8 +6691,8 @@
 									"visible": false,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 195,
-									"top": 347,
+									"left": 196,
+									"top": 348,
 									"height": 12,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -7164,7 +7172,7 @@
 											"containerExtending": true,
 											"left": 972,
 											"top": 60,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -7289,7 +7297,7 @@
 											"containerExtending": true,
 											"left": 120,
 											"top": 24,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -7573,7 +7581,7 @@
 											"containerExtending": true,
 											"left": -60,
 											"top": -336,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -7760,7 +7768,7 @@
 											"containerExtending": true,
 											"left": -60,
 											"top": -420,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -7947,7 +7955,7 @@
 											"containerExtending": true,
 											"left": -60,
 											"top": -480,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -8134,7 +8142,7 @@
 											"containerExtending": true,
 											"left": -48,
 											"top": -564,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -8321,7 +8329,7 @@
 											"containerExtending": true,
 											"left": -48,
 											"top": -624,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -8508,7 +8516,7 @@
 											"containerExtending": true,
 											"left": -48,
 											"top": -672,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -9265,7 +9273,7 @@
 											"font": "Arial;12;0",
 											"containerExtending": true,
 											"top": 504,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -9289,7 +9297,7 @@
 									"containerExtending": true,
 									"left": 556,
 									"top": 540,
-									"width": 102,
+									"width": 102.6484375,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFFwLRECl7u5vE="
@@ -9388,7 +9396,7 @@
 											"font": "Arial;12;0",
 											"containerExtending": true,
 											"top": 504,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -9573,7 +9581,7 @@
 											"containerExtending": true,
 											"left": -12,
 											"top": 420,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -9596,7 +9604,7 @@
 									"containerExtending": true,
 									"left": 720,
 									"top": 592,
-									"width": 98,
+									"width": 98.67578125,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFFwLSByF8yMLo="
@@ -9760,7 +9768,7 @@
 											"containerExtending": true,
 											"left": -12,
 											"top": 348,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -9947,7 +9955,7 @@
 											"containerExtending": true,
 											"left": -12,
 											"top": 312,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -10133,7 +10141,7 @@
 											"font": "Arial;12;0",
 											"containerExtending": true,
 											"top": 252,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -10791,7 +10799,7 @@
 											"font": "Arial;12;0",
 											"containerExtending": true,
 											"top": 144,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -10915,7 +10923,7 @@
 											"containerExtending": true,
 											"left": -48,
 											"top": -48,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -11103,7 +11111,7 @@
 											"containerExtending": true,
 											"left": -48,
 											"top": -108,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -11291,7 +11299,7 @@
 											"containerExtending": true,
 											"left": -48,
 											"top": -192,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -11479,7 +11487,7 @@
 											"containerExtending": true,
 											"left": -48,
 											"top": -252,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -11502,7 +11510,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 820,
-									"width": 91,
+									"width": 92.013671875,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFFwL5hQGDWrwI="
@@ -11667,7 +11675,7 @@
 											"containerExtending": true,
 											"left": -60,
 											"top": -324,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -11805,7 +11813,7 @@
 									"font": "Arial;12;0",
 									"containerExtending": true,
 									"left": 348,
-									"top": 633,
+									"top": 634,
 									"height": 12,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -11827,7 +11835,7 @@
 									"font": "Arial;12;0",
 									"containerExtending": true,
 									"left": 348,
-									"top": 618,
+									"top": 619,
 									"height": 12,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -11848,8 +11856,8 @@
 									"visible": false,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 347,
-									"top": 662,
+									"left": 348,
+									"top": 664,
 									"height": 12,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -11998,8 +12006,8 @@
 									"visible": false,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 199,
-									"top": 729,
+									"left": 198,
+									"top": 731,
 									"height": 12,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -12020,8 +12028,8 @@
 									"visible": null,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 199,
-									"top": 744,
+									"left": 198,
+									"top": 746,
 									"height": 12,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -12042,8 +12050,8 @@
 									"visible": false,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 198,
-									"top": 700,
+									"left": 199,
+									"top": 701,
 									"height": 12,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -12425,7 +12433,7 @@
 											"font": "Arial;12;0",
 											"containerExtending": true,
 											"left": -12,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -12548,7 +12556,7 @@
 											"font": "Arial;12;0",
 											"containerExtending": true,
 											"left": 252,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -12752,7 +12760,7 @@
 											"containerExtending": true,
 											"left": 276,
 											"top": 120,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -12940,7 +12948,7 @@
 											"containerExtending": true,
 											"left": 324,
 											"top": 168,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -13406,7 +13414,7 @@
 											"fillColor": "#e2e2e2",
 											"font": "Arial;12;0",
 											"containerExtending": true,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -13527,7 +13535,7 @@
 											"visible": false,
 											"font": "Arial;12;0",
 											"containerExtending": true,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -13709,7 +13717,7 @@
 											"font": "Arial;12;0",
 											"containerExtending": true,
 											"top": -60,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -13731,7 +13739,7 @@
 									"containerExtending": true,
 									"left": 724,
 									"top": 888,
-									"width": 85,
+									"width": 85.345703125,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFFwMeIHGMEN4g="
@@ -14709,7 +14717,7 @@
 											"containerExtending": true,
 											"left": -1065,
 											"top": -270,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -14885,7 +14893,7 @@
 											"containerExtending": true,
 											"left": -489,
 											"top": -414,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -15107,7 +15115,7 @@
 											"containerExtending": true,
 											"left": -336,
 											"top": -312,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -15391,7 +15399,7 @@
 											"containerExtending": true,
 											"left": 96,
 											"top": -360,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -16210,7 +16218,7 @@
 											"containerExtending": true,
 											"left": -48,
 											"top": -168,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -16335,7 +16343,7 @@
 											"containerExtending": true,
 											"left": 108,
 											"top": -48,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -16522,7 +16530,7 @@
 											"containerExtending": true,
 											"left": 108,
 											"top": -84,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -16709,7 +16717,7 @@
 											"containerExtending": true,
 											"left": 120,
 											"top": -168,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -17079,7 +17087,7 @@
 											"containerExtending": true,
 											"left": -702,
 											"top": -954,
-											"width": 135,
+											"width": 143.37890625,
 											"height": 12,
 											"text": "(from UMLStandardProfile)"
 										},
@@ -17153,8 +17161,8 @@
 									"visible": false,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 190,
-									"top": 63,
+									"left": 189,
+									"top": 64,
 									"height": 12,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -17175,8 +17183,8 @@
 									"visible": null,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 190,
-									"top": 78,
+									"left": 189,
+									"top": 79,
 									"height": 12,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -17197,7 +17205,7 @@
 									"visible": false,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 189,
+									"left": 190,
 									"top": 34,
 									"height": 12,
 									"alpha": -1.5707963267948966,
